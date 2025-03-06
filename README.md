@@ -1,8 +1,7 @@
 
 # Grupo 
 
-## Desenvolvimento de interface de gestão para uma plataforma de serviços para apoio ao uso profissional de mota elétrica ![alt text](image.png){width=300px}
-
+## Desenvolvimento de interface de gestão para uma plataforma de serviços para apoio ao uso profissional de mota elétrica 💻
 
 ## About us 📑 
 Our group consists of:
